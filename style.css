@@ -1,0 +1,47 @@
+.yellow-Color{
+
+    color: #FABE4C ; !important
+    
+}
+h1{
+    font-family: Bebas Neue;
+
+font-size: 80px;
+
+}
+p{
+    color: #3E3E3E;
+}
+.blue-color {
+    color: #363958;
+}
+.fa-shopping-cart{
+    margin-right: 10px;
+}
+.button{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+.button:hover{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.card-title{
+    font-size: 24px;
+    color: #363958;
+    font-weight: bold;
+
+}
+.price{
+    font-size: 35px;
+    font-weight: 900;
+color: #FABE4C;
+}
+.jacket-name{
+    font-size: 48px;
+    color: #363958;
+    font-weight: bold;
+
+}
